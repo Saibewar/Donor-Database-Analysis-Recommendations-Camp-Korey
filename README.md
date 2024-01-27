@@ -171,4 +171,6 @@ The Neural Network model is inspired by the structure and function of the human 
 Several elements of the work we did for Camp Korey can be used to help with improved efficiency and efficacy of fundraising. By identifying the donors who have invalid addresses and emails, Camp Korey can start to work on updating their records, improving their ability to retain donors year after year. The analyses and visualizations of donor segments and giving timelines will allow for Camp Korey to develop fundraising strategies based on the observed trends. The calculated donor engagement scores will allow them to assess how engaged each donor is currently, and the machine learning models provide the ability to predict future engagement as well. This project presents an opportunity for Camp Korey to make the most out of their data and improve fundraising efforts, ultimately allowing them to better serve the children and families they support. 
 12   ![ref1]![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.014.png)
 
+# Please visit the short video: https://www.youtube.com/watch?v=-Mj-1dY1hzk
+
 [ref1]: Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.004.png
