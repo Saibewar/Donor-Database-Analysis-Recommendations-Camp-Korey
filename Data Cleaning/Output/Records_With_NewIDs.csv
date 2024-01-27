@@ -1,0 +1,12 @@
+,CnBio_Name,CnBio_Last_Name,CnBio_First_Name,CnBio_ID,CnBio_SortKey,CnBio_Age,CnBio_Constit_Code,CnBio_Gender,CnBio_Marital_status,CnBio_No_Valid_Addresses,CnBio_Matching_Gift_Flag,CnAdrSal_Addressee,CnAdrSal_Salutation,CnAdrPrf_City,CnAdrPrf_State,CnAdrPrf_ZIP,CnCnstncy_1_01_Date_From,CnCnstncy_1_01_Date_To,CnSpSpBio_Name,CnSolCd_1_01_Solicit_Code,CnSolCd_1_02_Solicit_Code,CnSolCd_1_03_Solicit_Code,CnSolCd_1_04_Solicit_Code,CnSolCd_1_05_Solicit_Code,dne,dnc,dnm,invalid_email,prim_email
+0,David Boland,Boland,David,000016834,"Boland,David,,00001-593-0000015464",,Individual,Unknown,,No,No,David Boland,David,Maple Valley,WA,98038-6700,,,,,,,,,False,False,False,False,
+1,Melanie  Ness,Ness,Melanie ,000021864,"Ness,Melanie ,,00001-593-0000040937",,Individual,Unknown,,No,No,Melanie  Ness,Melanie  Ness,,,,,,,,,,,,False,False,False,False,
+2,Tammy Olson,Olson,Tammy,000027718,"Olson,Tammy,,00001-593-0000040939",,Individual,Unknown,,No,No,Tammy Olson,Tammy Olson,,WA,,,,,,,,,,False,False,False,False,
+3,Marge Shea,Shea,Marge,000028460,"Shea,Marge,,00001-593-0000040940",,Individual,Unknown,,No,No,Marge Shea,Marge Shea,,,,,,,,,,,,False,False,False,False,
+4,Burton Shields,Shields,Burton,000029494,"Shields,Burton,,00001-593-0000040941",,Individual,Unknown,,No,No,Burton Shields,Burton Shields,,WA,,,,,,,,,,False,False,False,False,
+5,Daniel Soloff,Soloff,Daniel,000018309,"Soloff,Daniel,,00001-593-0000040942",,Individual,Unknown,,No,No,Daniel Soloff,Daniel Soloff,,WA,,,,,,,,,,False,False,False,False,
+6,Rainy Wright,Wright,Rainy,000026768,"Wright,Rainy,,00001-593-0000040949",,Individual,Unknown,,No,No,Rainy Wright,Rainy Wright,,,,,,,,,,,,False,False,False,False,
+7,Sam Myoda,Myoda,Sam,000014024,"Myoda,Sam,,00001-593-0000040936",,Individual,Unknown,,No,No,Sam Myoda,Sam Myoda,,,,,,,,,,,,False,False,False,False,
+8,Tanner Olson,Olson,Tanner,000014869,"Olson,Tanner,,00001-593-0000042857",,Individual,Unknown,,No,No,Tanner Olson,Tanner Olson,Arlington,WA,98223,,,,,,,,,False,False,False,False,E-Mail -1
+9,Mostafa Ahanchi,Ahanchi,Mostafa,000020129,"Ahanchi,Mostafa,,00001-593-0000031390",,Individual,Unknown,,No,No,Mostafa Ahanchi,Mostafa,Seattle,WA,98101-3361,2/11/2019,,,,,,,,False,False,False,False,E-Mail -1
+10,Traci Trocano,Trocano,Traci,000011765,"Trocano,Traci,,00001-593-0000019304",,Individual,Unknown,,No,No,Traci Trocano,Traci,Duvall,WA,98019,,,,,,,,,False,False,False,False,
