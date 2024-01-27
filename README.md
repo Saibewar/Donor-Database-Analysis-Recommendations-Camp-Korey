@@ -134,7 +134,7 @@ The figure on bottom right describes the trend of number of gifts received over 
 
 Figure 5 shows the organization’s donor growth using a performance measure to evaluate how many donors continue to donate to the organization since their first contribution. The donors are classified into three categories as new donors, returning donors from the previous year, and donors from the previous year that have not contributed (lost donors). Our analysis began with the data retrieved from the year 2020, keeping in mind that all the donors listed for this year were the existing donors. There were 323 donors from the year 2020, who came back to contribute for the year 2021. Apart from this there were 974 new donors. Highlighted in blue are the 544 donors from the previous year that haven't contributed. The donor retention rate for 2021 is 35%. Similarly, for 2022 the donor retention rate is 26.7%. 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.010.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.010.jpeg)
 
 *Figure 5: Donor Retention KPI* 
 
