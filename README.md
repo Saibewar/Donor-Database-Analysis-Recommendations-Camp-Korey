@@ -104,11 +104,11 @@ Donor segmentation into subgroups was done based on the annual giving amount of 
 
 SQL queries were created to determine the donor levels and the results were subsequently visualized in Microsoft PowerBI. Figure 1 shows a chart of the proportion of donors by segments. The percentage of donors for level 1, or “large” donors, has consistently been smaller for all three years; less than 10% of all donors. A major portion of the donor base falls under the level2 subgroup; more than 90% of all donors were considered “small” donors. Figure 2 shows the proportion of donations by level. Even though there are much fewer large amount donors (level 1) compared with small amount donors (level 2), they donate a much larger proportion of Camp Korey’s total gifts. This trend has been consistent for all three years. This insight can be helpful to Camp Korey in planning their fundraising efforts around specific subgroups. 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.005.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.005.jpeg)
 
 *Figure 1. Proportion of Donor Segments* 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.006.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.006.jpeg)
 
 *Figure 2. Donation Amount Proportion by segments* 
 
