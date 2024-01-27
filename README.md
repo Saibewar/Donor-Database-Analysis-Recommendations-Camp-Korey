@@ -2,7 +2,7 @@
 
 **MSDS 23.1             Seattle University, 2023** 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.001.png)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.001.png)
 
 **Team Members** 
 
@@ -12,9 +12,9 @@ Liya LaPierre, Karthika Selvaraj, Aishwarya Saibewar, and Radhika Magaji
 
 **Sponsors** Camp Korey 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.002.png)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.002.png)
 
-*2023 Capstone Project Report   ![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.003.png) MSDS Team 23.1![ref1]*
+*2023 Capstone Project Report   ![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.003.png) MSDS Team 23.1![ref1]*
 
 **Contents** 
 
@@ -116,7 +116,7 @@ SQL queries were created to determine the donor levels and the results were subs
 
 Donation timelines were explored for the Individual donors over the last three years, and it was found that the total amount donated was 4.47 million dollars. The line chart on bottom left shows the trend in total gift amount over the years, and a dip can be observed in the year 2021. This could have been due to the pandemic which may have had an impact on fundraising efforts. The chart on right shows the percentage of largest gift amount in relation to the total gift amount received. It is useful to track the trend of this metric as it can help Camp Korey identify donor behavior and adjust its fundraising strategies accordingly. The chart shows that about 7-17% of the total donation amount comes from a single large donation. Identifying the individuals making these large donations could be a potential source of referrals or introductions to other potential donors, eventually benefiting the organization to expand the donor base. 
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.007.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.007.jpeg)
 
 *Figure 3: Dashboard for Gift Amount Trends* 
 
@@ -124,7 +124,7 @@ Figure 4 below shows a dashboard on gift growth trends over the last three years
 
 Average gift size = Total amount of donations received ÷ Number of Gifts Received ![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.008.png)
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.009.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.009.jpeg)
 
 *Figure 4: Dashboard for Gift Growth trend*  
 
@@ -146,11 +146,11 @@ The variables that were considered for each donor’s Donation Score were their 
 
 **Donation Score** = 0.2\*(Special Events) + 0.3\*(Total Donation) + 0.2\*(Frequency of donations) + 0.2\*(Recency) + 0.1\*(Donated in the last two years) 
 
-**Volunteering score** = 0.4\*(Frequency of volunteering) + 0.6\*(Total hours volunteered) ![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.011.png)
+**Volunteering score** = 0.4\*(Frequency of volunteering) + 0.6\*(Total hours volunteered) ![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.011.png)
 
 Then the Engagement Score for each individual was calculated by assigning equal weights to the Donation Score and Volunteering Score.  
 
-**Engagement Score** = 0.5\*(Donation Score) + 0.5\*(Volunteering Score) ![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.012.png)
+**Engagement Score** = 0.5\*(Donation Score) + 0.5\*(Volunteering Score) ![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.012.png)
 
 7. ***Machine<a name="_page10_x69.00_y183.00"></a> learning models to predict donation score*** 
 
@@ -160,7 +160,7 @@ Random forest regression is a machine learning algorithm that builds multiple de
 
 As you can see in Figure 6 below, a donor’s total donation amount in 2018-2019 was the most important predictor of their 2020-2022 donation score. The next most important variables, in order, were donation recency, frequency, donation at an event, and donated consecutively for 2 years.***  
 
-![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.013.jpeg)
+![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.013.jpeg)
 
 *Figure 6: Random Forest Variable Importance* 
 
@@ -169,6 +169,6 @@ The Neural Network model is inspired by the structure and function of the human 
 5. **Conclusion<a name="_page12_x69.00_y72.00"></a>** 
 
 Several elements of the work we did for Camp Korey can be used to help with improved efficiency and efficacy of fundraising. By identifying the donors who have invalid addresses and emails, Camp Korey can start to work on updating their records, improving their ability to retain donors year after year. The analyses and visualizations of donor segments and giving timelines will allow for Camp Korey to develop fundraising strategies based on the observed trends. The calculated donor engagement scores will allow them to assess how engaged each donor is currently, and the machine learning models provide the ability to predict future engagement as well. This project presents an opportunity for Camp Korey to make the most out of their data and improve fundraising efforts, ultimately allowing them to better serve the children and families they support. 
-12   ![ref1]![](Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.014.png)
+12   ![ref1]![](Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.014.png)
 
-[ref1]: Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.004.png
+[ref1]: Images/Aspose.Words.ad4257f5-16b0-483a-9e85-57967ef76f87.004.png
